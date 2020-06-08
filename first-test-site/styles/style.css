@@ -1,0 +1,41 @@
+h1{
+	color:pink;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	padding:20px 0;
+	text-shadow: 3px 3px 5px black;
+	margin: 0;
+
+}
+
+p{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+a{
+	color:turquoise;
+}
+
+li{	font-family: 'Montserrat', sans-serif;}
+
+p, li{ font-size: 16px;
+line-height: 1.2;
+letter-spacing: .9px; }
+
+html{
+	background-color: pink;
+}
+
+body{
+	margin:0 auto;
+	width: 600px;
+	padding:0 20px 20px 20px;
+	border:7px solid black;
+	background-color: #fffff1
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
